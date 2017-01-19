@@ -10,7 +10,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/MainAssets/Level/TopDownExampleMap.umap
-Content/TopDownBP/Blueprints/TopDownGameMode.uasset
-Content/BasicAssets/Sprite/BasicFlipBook.uasset
-Content/BasicAssets/Sprite/BasicFlipBook.uasset
+
+
